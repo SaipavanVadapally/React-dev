@@ -44,6 +44,15 @@ const Body =( )=>{
             cuisine="Biryani, South Indian,Hyderabadi"/>
             <RestauarantCard
             resName="KFC Restaurant"
+            cuisine="Chicken Burger,American,NewYork"/>
+                        <RestauarantCard
+            resName="KFC Restaurant"
+            cuisine="Chicken Burger,American,NewYork"/>
+                        <RestauarantCard
+            resName="KFC Restaurant"
+            cuisine="Chicken Burger,American,NewYork"/>
+                        <RestauarantCard
+            resName="KFC Restaurant"
             cuisine="Chicken Burger,American,NewYork"/> 
              
             </div>

@@ -21,12 +21,13 @@
 }
 .res-container{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
 }
 .res-card{
     width: 200px;
     height: 340px;
     padding: 5px;
+    margin: 5px;
 }
 .search{
     padding: 10px;
